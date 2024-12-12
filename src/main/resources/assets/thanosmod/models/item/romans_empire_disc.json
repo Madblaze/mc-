@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thanosmod:item/romans_empire_disc"
+  }
+}

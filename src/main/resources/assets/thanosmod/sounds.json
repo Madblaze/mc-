@@ -1,0 +1,18 @@
+{
+  "romans_empire": {
+    "sounds": [
+      {
+        "name": "thanosmod:romans_empire",
+        "stream": true
+      }
+    ]
+  },
+  "battle_theme": {
+    "sounds": [
+      {
+        "name": "thanosmod:battle_theme",
+        "stream": true
+      }
+    ]
+  }
+}
